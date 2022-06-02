@@ -1,8 +1,8 @@
 # vent-simulator
 
-#Used HTML, CSS, Javascript
+HTML, CSS, Javascript
 
-Need to tweak for mobile
+Need a small tweak for mobile
 
 
 https://vent-simulator.netlify.app/
