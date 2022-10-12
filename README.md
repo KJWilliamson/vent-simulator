@@ -1,8 +1,7 @@
-# vent-simulator
+## Praise or vent simulator. Web app simulates when someone is really mad at you or happy with you. Built with HTML, CSS, and Javascript.
 
-HTML, CSS, Javascript
 
-Need a small tweak for mobile
+* Need a small tweak for mobile
 
 
 https://vent-simulator.netlify.app/
