@@ -1,4 +1,4 @@
-### Praise or vent simulator. Web app simulates when someone is really mad at you or happy with you. Built with HTML, CSS, and Javascript. CSS addition looks like fire is coming off each letter for dramatic effect!
+### Praise or vent simulator. Web app simulates venting or celebrating. Built with HTML, CSS, and Javascript. CSS addition looks like fire is coming off each letter for dramatic effect!
 
 
 * Need a small tweak for mobile
